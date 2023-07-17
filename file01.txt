@@ -1,5 +1,3 @@
-<<<<<<< HEAD
 Hello master
-=======
-Hello Hot-File 
->>>>>>> hot-fix
+Hello Hot-File hot-fix
+update test01
